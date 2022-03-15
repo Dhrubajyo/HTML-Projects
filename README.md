@@ -1,2 +1,2 @@
-# HTML-Projects
+# Web-Development-Projects
 This is my HTML Projects repository...
