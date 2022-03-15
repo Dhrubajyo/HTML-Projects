@@ -1,0 +1,347 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: rgb(32, 32, 32);
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid khaki;
+}
+.circle2 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle2:hover {
+    border: 2px solid firebrick;
+}
+.circle3 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle3:hover {
+    border: 2px solid burlywood;
+}
+.circle4 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle4:hover {
+    border: 2px solid rgb(0, 119, 255);
+}
+.circle5 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle5:hover {
+    border: 2px solid hotpink;
+}
+.circle6 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle6:hover {
+    border: 2px solid forestgreen;
+}
+.circle7 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle8:hover {
+    border: 2px solid turquoise;
+}
+.circle9 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle9:hover {
+    border: 2px solid thistle;
+}
+.circle10 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle10:hover {
+    border: 2px solid ;
+}
+.circle11 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle11:hover {
+    border: 2px solid ;
+}
+.circle12 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle13:hover {
+    border: 2px solid ;
+}
+.circle14 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle14:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
+.circle1 {
+    width: 156px;
+    height: 156px;
+    border: whitesmoke;
+    border-radius: 100px;
+    background-color: #202020;
+    border: 2px solid aliceblue;
+}
+
+.circle1:hover {
+    border: 2px solid ;
+}
